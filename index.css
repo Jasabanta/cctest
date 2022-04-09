@@ -6,6 +6,7 @@ body{
     text-align: center;
     overflow: hidden;
     background-image: linear-gradient(#B8FFF9, #EFFFFD);
+    touch-action: none;
 }
 h4{
     font-weight: 600 !important;
